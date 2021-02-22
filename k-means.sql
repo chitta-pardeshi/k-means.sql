@@ -1,3 +1,4 @@
+-- install: https://www.sqlite.org/
 --  use: sqlite3 < k-means.sql
 
 .mode column
